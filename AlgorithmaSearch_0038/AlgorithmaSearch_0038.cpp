@@ -33,3 +33,6 @@ void LinearSearch()
 	int ctr; // Number of comparisons
 	int item;
 
+	do
+	{
+		// Accept the number to be searched
