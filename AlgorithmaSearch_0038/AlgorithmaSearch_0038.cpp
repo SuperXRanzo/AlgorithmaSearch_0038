@@ -66,3 +66,7 @@ void display()
 {
 	cout << "Array element are : ";
 	for (i = 0; 1 < n; i++)
+		cout << arr[i] << " ";
+	cout << endl;
+}
+
